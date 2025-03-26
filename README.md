@@ -1,1 +1,1 @@
-This repository will contain the code for the paper "**KubeFence: Security Hardening of Kubernetes Attack Surface**", to be presented at the [55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks](https://dsn2025.github.io/) (DSN 2025).
+This repository will contain the code for the paper "**KubeFence: Security Hardening of the Kubernetes Attack Surface**", to be presented at the [55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks](https://dsn2025.github.io/) (DSN 2025).
